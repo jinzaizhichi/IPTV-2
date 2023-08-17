@@ -72,7 +72,7 @@ CNA新闻，https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66eb
 东方财经，http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
 哈哈炫动，http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?
 七彩戏剧，http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001308/index.m3u8?
-欢笑剧场，http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+欢笑剧场，
 茶友频道，http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
 快乐垂钓，http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰纪实，http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
